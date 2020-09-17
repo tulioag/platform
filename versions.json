@@ -33,7 +33,7 @@
             "npmVersion": "3.0.1"
         },
         "iron-icon": {
-            "jsVersion": "2.1.0",
+            "jsVersion": "3.0.1",
             "npmName": "@polymer/iron-icon",
             "npmVersion": "3.0.1"
         },
@@ -44,7 +44,7 @@
         },
         "iron-list": {
             "javaVersion": "{{version}}",
-            "jsVersion": "2.0.20",
+            "jsVersion": "3.1.0",
             "npmName": "@polymer/iron-list",
             "npmVersion": "3.1.0"
         },
@@ -162,7 +162,7 @@
         "vaadin-dialog": {
             "component": true,
             "javaVersion": "{{version}}",
-            "jsVersion": "2.5.0",
+            "jsVersion": "2.5.1",
             "npmName": "@vaadin/vaadin-dialog"
         },
         "vaadin-element-mixin": {
@@ -183,7 +183,7 @@
                 "Grid Context Menu"
             ],
             "javaVersion": "{{version}}",
-            "jsVersion": "5.7.0",
+            "jsVersion": "5.7.1",
             "npmName": "@vaadin/vaadin-grid"
         },
         "vaadin-icons": {
@@ -264,7 +264,7 @@
                 "Radio Button Group"
             ],
             "javaVersion": "{{version}}",
-            "jsVersion": "1.4.0",
+            "jsVersion": "1.4.1",
             "npmName": "@vaadin/vaadin-radio-button"
         },
         "vaadin-router": {
@@ -302,7 +302,7 @@
                 "Number Field"
             ],
             "javaVersion": "{{version}}",
-            "jsVersion": "2.7.0",
+            "jsVersion": "2.7.1",
             "npmName": "@vaadin/vaadin-text-field"
         },
         "vaadin-themable-mixin": {
@@ -377,7 +377,7 @@
         "vaadin-grid-pro": {
             "component": true,
             "javaVersion": "{{version}}",
-            "jsVersion": "2.2.0",
+            "jsVersion": "2.2.1",
             "npmName": "@vaadin/vaadin-grid-pro",
             "pro": true
         },
